@@ -6,7 +6,7 @@ if (typeof Chart !== 'undefined' && typeof ChartDataLabels !== 'undefined') {
 }
 
 const SHEET_ID = '1I6eGs9L4vICNaIAxr2yJi7953ch6fUyIRV-G-EHdI78';
-const URL_TABLA1 = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=863156308&range=A1:IX34`;
+const URL_TABLA1 = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=863156308&range=A1:IX1`;
 const URL_TABLA_ACUMULADOS = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=863156308&range=A37:IX70`;
 const URL_TABLA_SIN_FOSAS = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=863156308&range=A173:N206`;
 const URL_TABLA_CON_FOSAS = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=863156308&range=A137:N170`;
